@@ -27,7 +27,7 @@ Cloning a repo on our local machine
  git clone https://github.com/Raninankar2002/Employee_Mang_application.git
 ```
 
-    ## Add Dependencies
+## Add Dependencies
 
 Provides an Object-Relational Mapping (ORM) framework for working with databases using .NET objects.
 
